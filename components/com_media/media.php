@@ -8,7 +8,7 @@
  */
 
 defined('_JEXEC') or die;
-// attempt to improve the media manager...
+// hello world
 
 // Load the com_media language files, default to the admin file and fall back to site if one isn't found
 $lang = JFactory::getLanguage();
